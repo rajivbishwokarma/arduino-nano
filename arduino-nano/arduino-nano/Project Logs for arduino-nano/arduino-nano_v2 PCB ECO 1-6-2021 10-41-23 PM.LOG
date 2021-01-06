@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=5V Pin=D1-1
+Added Pin To Net: NetName=5V Pin=D2-1
+Added Pin To Net: NetName=5V Pin=RA2-5
+Added Pin To Net: NetName=5V Pin=U2-4
+Added Pin To Net: NetName=5V Pin=U2-6
+Added Pin To Net: NetName=5V Pin=U2-18
+Added Room: Name=arduino-nano

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=U2-8
+Removed Pin From Net: NetName=GND Pin=X1-4
+Added Component: Designator=C10(CAPCP2012X09N)
+Add component (AddParameter): Name = "Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Ritesh Kanjee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://za.rs-online.com/web/p/ceramic-multilayer-capacitors/6480935/?searchTerm=C0805C180J5GACTU&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D4330383035433138304A35474143545526"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "18 February 2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock No."; Value = "648-0935"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=U2-8
+Added Pin To Net: NetName=NetC10_1 Pin=X1-4
+Added Net: Name=NetC10_1
+Added Member To Class: ClassName=arduino-nano Member=Component C10 C0805C180J5GACTU
+Added Room: Name=arduino-nano
