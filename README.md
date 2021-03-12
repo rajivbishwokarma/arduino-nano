@@ -2,4 +2,4 @@
 This is a work in progress. 
 
 ## Schematic
-![schematic](https://github.com/rajivbishwokarma/arduino-nano/blob/main/arduino-nano/media/sch.jpg)
+![schematic](https://github.com/rajivbishwokarma/arduino-nano/blob/main/arduino-nano/media/3d-3.jpg)
